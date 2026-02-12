@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="SystemIntegrationLektion03/SystemIntegrationLektion03.csproj" />
+  <Project Path="WebApplication1/WebApplication1.csproj" Id="c8d60fe5-0f4c-4b2f-90e4-712b15b68a74" />
+</Solution>
