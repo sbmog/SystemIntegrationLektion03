@@ -2,4 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
+  <Project Path="MyFirstApi/MyFirstApi.csproj" Id="7ad5a879-4b30-4679-94b5-be3878d9d0d2" />
+  <Project Path="TodoApi/TodoApi.csproj" Id="05382ea4-fcdf-427b-9dca-b2416637cca1" />
 </Solution>
